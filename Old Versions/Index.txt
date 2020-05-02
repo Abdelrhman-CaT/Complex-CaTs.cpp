@@ -1,0 +1,23 @@
+1.0	split and combine are full in operation
+	add and subtract complex added
+
+
+2.0	fix bugs in split and combine
+	added polar and rectangular form
+	added multiplication and division
+	added power
+
+
+2.1	fixed some bugs in combine regarding decimal point after zero
+
+2.2	fixed some bugs in combine regarding 0.1i
+
+2.3	fixed power to zero
+
+2.4	added power to negative nums
+
+3.0	added direct evaluation function
+	
+4.0	added square root function
+
+4.1	fixed negative inputs to square root

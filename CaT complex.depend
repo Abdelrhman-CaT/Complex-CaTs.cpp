@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556051818 source:d:\lectures\programming\mr_cat's training\cat complex\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<sstream>
+	<string>
+
